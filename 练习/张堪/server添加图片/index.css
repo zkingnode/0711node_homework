@@ -1,0 +1,10 @@
+/*@charset "utf-8";*/
+h1{
+    color:red;
+}
+img{
+    border: none;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
